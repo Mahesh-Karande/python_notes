@@ -1,0 +1,15 @@
+Select the paragraph and all commited the file and line 
+Press 
+
+ctrl + /
+
+
+1 ) if Statement in Python :-
+Execute a block of code if the condition is true.
+
+2) if else Statement in Python :-
+Execute a block of code if none of the previous if or elif condition are true.
+
+3) if-elif Statement in Python
+Execute a block of code if the previous if condition is false and the elif condition
+is true.
